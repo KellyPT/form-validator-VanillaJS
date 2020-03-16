@@ -8,6 +8,6 @@ Render a simple client-side form validation UI that could check required fields,
 - Validate email format with regex
 - Confirm password retyping matching original password
 
-### Credit:
+## Credit
 Special thanks to [Brad Traversy](https://github.com/bradtraversy) for your amazing Udemy tutorials.
 
