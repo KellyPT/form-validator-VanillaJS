@@ -1,3 +1,5 @@
+# Form Validator with VanillaJS
+
 ## Objective
 Render a simple client-side form validation UI that could check required fields, length, email format and password match
 
